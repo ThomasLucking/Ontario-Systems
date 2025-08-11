@@ -1,0 +1,9 @@
+InformationCog:
+  avatar          
+  created         
+  joined          
+  roleinfo        
+  serverinfo      
+  userinfo  
+
+  
